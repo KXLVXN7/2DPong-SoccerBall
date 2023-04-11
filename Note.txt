@@ -1,0 +1,23 @@
+- Gameplay Pong dengan Gaya Soccer
+	- UI/UX Soccer
+** Menu Scene **
+- 
+- Guide [ Aktif ]
+- Credits [ Belum Selesai / Bug Tidak Keluar UI/UX nya mungkin di layer tapi saya kebingungan  ]
+- Settings [ Coming soon ] -> Setting Sound & Game ( Menit & Score )
+	-Sementara untuk Sound dipindahkan di kiri atas Menu Scene
+- Quit [ Aktif ( Auto QuitApplication ) ]
+
+** Main Scene **
+-
+- W S [ Player 1 ] / Arrow Up & Down [ Player 2 ]
+- Score [ Aktif ] | 10 Game = Finish back to Menu
+- Escape [ Aktif ] (auto Pause) 
+	- teken Play Untuk Resume
+	- teken Restart Untuk Restart Ulang Game kembali, score menjadi 0 vs 0
+	- teken Setting [ Coming Soon ] -> Setting Sound & Game ( Menit & Score )
+		-Sementara untuk Sound belum di setting di Main Escape
+	- BGM Sound   [ Aktif ]
+	- Wasit Sound [ Aktif ]
+	- Quit [ Aktif ( Auto QuitApplication ) ]
+
